@@ -16,7 +16,7 @@
 </script>
 
 <main>
-	<h1>JOELIN ALE-laskuri</h1>
+	<h1>JOELIN ALE-laskuri NETLIFYSSÄ!!</h1>
 
 	<label for="hinta">Hinta</label>
 	<input id="hinta" type="number" min="1" max={maxHinta} oninput={hintaTsekki} />
